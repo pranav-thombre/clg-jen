@@ -19,8 +19,8 @@ sudo apt-get install jenkins
 3) COPY THE PUBLIC IP:8080
 4) sudo cat /var/lib/jenkins/secrets/initialAdminPassword USE THE INITIAL PASS TO LOGIN THIS IS OLY FOR THE FIRST TIME
 5) install the suggested plugins
-6) username - admin
-7) pass - admin1
+6) username - 
+7) pass - 
 8) full name - admin11
 NOTE : INSTALL THE PUBLISH OVER SSH PLUGINS(RESTART OPTIONAL) 
 -----------------------------------------------------------------------
