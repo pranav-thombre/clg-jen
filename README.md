@@ -22,4 +22,16 @@ sudo apt-get install jenkins
 6) username - admin
 7) pass - admin1
 8) full name - admin11
+NOTE : INSTALL THE PUBLISH OVER SSH PLUGINS(RESTART OPTIONAL) 
+-----------------------------------------------------------------------
 
+9) WHEN YOU START/STOP THE INSTANCE CHANGE THE IP IN THE FOLLOWING :
+10) CHANGE THE HOSTNAME (UPDATED IP)(PAYLOAD URL) IN GITHUB WEBHOOK
+11) IN JENKINS -> MANAGE JENKINS -> SYSTEM -> LOOK FOR PUBLISH OVER SSH
+12) GO IN THE JOB, CLICK ON APPLY -> SAVE
+13) GO TO YOUR PIPEPLINE AND THEN CLICK ON BUILD NOW
+----------------------------------------------------------------------
+TO UNDERSTAND BETTER REFER HERE :(USED UBUNTU 24.04)
+SETUP JENKINS, JAVA -> https://youtu.be/tn2Be1AAiVw?si=OEwN-IGS_wzkG9j-
+To Deploy Github Code to Live Server -> https://youtu.be/8RIFmoWPbhQ?si=fB0glwl6NeM2taTH
+--------------------------------------------------------------------------------------------------
