@@ -13,6 +13,8 @@ java -version
 
 2) THEN FOLLOW THESE STEPS TO INSTALL JENKINS: 
 
+-(THESE ARE LONG TERM SUPPORT(LTS) / STABLE RELEASE)
+
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
 echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
