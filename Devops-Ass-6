@@ -48,7 +48,9 @@ COPY index.html /usr/share/nginx/html         (## THIS DOCKERFILE DEFINES A NEW 
 - :wq!(TO SAVE AND QUIT)
 
 8) START DOCKER AND BUILD DOCKER IMAGE FROM dockerfile
+
 - sudo service docker status (## CHECK THE STATUS OF docker)
+
 - IF IN STOP OR IN ACTIVE STATE USE (sudo service docker start) 
 - docker build -t docker .   (## -t TAGS THE IMAGE WITH THE NAME 'docker').
   (## HERE docker IS THE FOLDER AND WE HAVE THE dockerfile INSIDE OF THE FOLDER).
