@@ -34,6 +34,7 @@ jenkins --version (optional)
 5) click on ->install the suggested plugins
 
 GIVE THE NECESSARY CRED :
+
 6) username - 
 7) pass - 
 8) full name - admin11
