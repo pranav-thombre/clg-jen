@@ -38,7 +38,8 @@ GIVE THE NECESSARY CRED :
 6) username - 
 7) pass - 
 8) full name - admin11
-NOTE : INSTALL THE PUBLISH OVER SSH PLUGIN (RESTART OPTIONAL) 
+
+- NOTE : INSTALL THE PUBLISH OVER SSH PLUGIN (RESTART OPTIONAL) 
 -----------------------------------------------------------------------
 
 9) WHEN YOU START/STOP THE INSTANCE CHANGE THE IP IN THE FOLLOWING :
