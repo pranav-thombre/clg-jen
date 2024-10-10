@@ -48,6 +48,8 @@ NOTE : INSTALL THE PUBLISH OVER SSH PLUGIN (RESTART OPTIONAL)
 13) GO TO YOUR PIPEPLINE AND THEN CLICK ON BUILD NOW
 ----------------------------------------------------------------------
 TO UNDERSTAND BETTER REFER HERE :(USED UBUNTU 24.04)
-SETUP JENKINS, JAVA -> https://youtu.be/tn2Be1AAiVw?si=OEwN-IGS_wzkG9j-
-To Deploy Github Code to Live Server -> https://youtu.be/8RIFmoWPbhQ?si=fB0glwl6NeM2taTH
+
+- SETUP JENKINS, JAVA -> https://youtu.be/tn2Be1AAiVw?si=OEwN-IGS_wzkG9j-
+
+- To Deploy Github Code to Live Server -> https://youtu.be/8RIFmoWPbhQ?si=fB0glwl6NeM2taTH
 --------------------------------------------------------------------------------------------------
