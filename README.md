@@ -11,7 +11,7 @@ sudo apt upgrade -y
 
 sudo apt install openjdk-17-jdk -y
 
-java -version
+java --version
 --------------------------------------------------------------------
 
 2) THEN FOLLOW THESE STEPS TO INSTALL JENKINS: 
