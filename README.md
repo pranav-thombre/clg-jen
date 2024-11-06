@@ -30,8 +30,8 @@ sudo apt-get install jenkins
 jenkins --version (optional)
 ----------------------------------------------------------------------
 
-3) COPY THE PUBLIC IP:8080
-4) sudo cat /var/lib/jenkins/secrets/initialAdminPassword USE THE INITIAL PASS TO LOGIN THIS IS ONLY FOR THE FIRST TIME
+3) COPY THE PUBLIC IP OF INSTANCE:8080
+4) sudo cat /var/lib/jenkins/secrets/initialAdminPassword (THIS IS THE INITIAL PASS TO LOGIN. THIS IS ONLY FOR THE FIRST TIME)
 5) click on ->install the suggested plugins
 
 GIVE THE NECESSARY CRED :
